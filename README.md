@@ -10,7 +10,7 @@ Airgirl and Earthboy was originally created as a submission for the **Video Game
 
 ## How to Play
 
-- Use A.W.D to move **Airgirl**
+- Use WASD to move **Airgirl**
 
 - Use arrows to move **Earthboy**
 
